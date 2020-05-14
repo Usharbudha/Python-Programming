@@ -1,0 +1,917 @@
+AcquisitionID,AcquisitionMonth,AcquisitionMonthDate,AcquisitionYear,Company,Value (USD),ParentCompany
+ACQ99,November,11,2015,bebop,380000000,Google
+ACQ98,November,11,2015,Fly Labs,,Google
+ACQ97,December,8,2015,Clearleap,,IBM
+ACQ96,December,18,2015,Metanautix,,Microsoft
+ACQ95,December,21,2015,"Talko, Inc.",,Microsoft
+ACQ94,January,7,2016,Emotient,,Apple
+ACQ93,January,15,2016,Iris Analytics,,IBM
+ACQ92,January,19,2016,Teacher Gaming LLC,,Microsoft
+ACQ915,July,30,1987,"Forethought, Inc.",14000000,Microsoft
+ACQ914,March,2,1988,Network Innovations,,Apple
+ACQ913,June,7,1988,Orion Network Systems,,Apple
+ACQ912,June,27,1988,Styleware,,Apple
+ACQ911,July,11,1988,Claris,,Apple
+ACQ910,January,3,1989,Coral Software,,Apple
+ACQ91,January,21,2016,Ustream,,IBM
+ACQ909,March,31,1991,Consumers Software,,Microsoft
+ACQ908,June,29,1992,Fox Software,,Microsoft
+ACQ907,February,28,1994,Softimage,,Microsoft
+ACQ906,September,27,1994,Altamira Software,,Microsoft
+ACQ905,November,1,1994,NextBase,,Microsoft
+ACQ904,November,15,1994,One Tree Software,,Microsoft
+ACQ903,February,23,1995,RenderMorphics,,Microsoft
+ACQ902,July,10,1995,Network Managers,,Microsoft
+ACQ901,October,17,1995,The Blue Ribbon SoundWorks,,Microsoft
+ACQ900,November,6,1995,Netwise,,Microsoft
+ACQ90,January,28,2016,LearnSprout,,Apple
+ACQ9,October,16,2017,tbh,,Facebook
+ACQ899,December,12,1995,Bruce Artwick Organization,,Microsoft
+ACQ898,January,16,1996,Vermeer Technologies,133000000,Microsoft
+ACQ897,March,6,1996,VGA-Animation Software Div[note 1],,Microsoft
+ACQ896,March,12,1996,Colusa Software,,Microsoft
+ACQ895,April,16,1996,Exos,,Microsoft
+ACQ894,April,23,1996,Aspect Software Engineering,14150000,Microsoft
+ACQ893,June,11,1996,eShop,,Microsoft
+ACQ892,June,17,1996,Electric Gravity,,Microsoft
+ACQ891,November,1,1996,Panorama Software Sys-On-Line[note 2],,Microsoft
+ACQ890,February,3,1997,NetCarta,20000000,Microsoft
+ACQ89,January,28,2016,Resource/Ammirati,,IBM
+ACQ889,February,7,1997,NeXT,404000000,Apple
+ACQ888,March,3,1997,Interse,,Microsoft
+ACQ887,April,30,1997,WebTV Networks,425000000,Microsoft
+ACQ886,May,7,1997,Dimension X,,Microsoft
+ACQ885,June,13,1997,Cooper & Peters,,Microsoft
+ACQ884,June,30,1997,LinkAge Software,,Microsoft
+ACQ883,August,5,1997,VXtreme,,Microsoft
+ACQ882,September,,1997,Net Controls,1400000,Yahoo
+ACQ881,September,2,1997,Power Computing Corporation,110000000,Apple
+ACQ880,October,8,1997,Four11,92000000,Yahoo
+ACQ88,January,29,2016,Flyby Media,,Apple
+ACQ879,December,31,1997,Hotmail,500000000,Microsoft
+ACQ878,February,23,1998,Flash Communications,,Microsoft
+ACQ877,March,31,1998,Classic Games,,Yahoo
+ACQ876,April,15,1998,Firefly,40000000,Microsoft
+ACQ875,April,28,1998,MESA Group,,Microsoft
+ACQ874,April,29,1998,Sportasy,,Yahoo
+ACQ873,June,8,1998,Viaweb,48600000,Yahoo
+ACQ872,July,17,1998,Webcal,21000000,Yahoo
+ACQ871,August,25,1998,Valence Research,,Microsoft
+ACQ870,October,12,1998,Yoyodyne,29600000,Yahoo
+ACQ87,February,2,2016,Aperto AG,,IBM
+ACQ869,November,6,1998,LinkExchange,265000000,Microsoft
+ACQ868,December,,1998,Hyperparallel,8100000,Yahoo
+ACQ867,January,8,1999,Xemplar Education,4926000,Apple
+ACQ866,January,11,1999,FASA Interactive,,Microsoft
+ACQ865,March,4,1999,CompareNet,,Microsoft
+ACQ864,March,26,1999,Numinous Technologies,,Microsoft
+ACQ863,April,1,1999,Broadcast.com,5700000000,Yahoo
+ACQ862,April,27,1999,Interactive Objects-Digital,,Microsoft
+ACQ861,April,30,1999,Jump Networks,,Microsoft
+ACQ860,May,27,1999,Encompass,130000000,Yahoo
+ACQ86,February,3,2016,"TouchType, Ltd.",250000000,Microsoft
+ACQ859,May,28,1999,GeoCities,3600000000,Yahoo
+ACQ858,June,2,1999,Online Anywhere,80000000,Yahoo
+ACQ857,June,7,1999,ShadowFactor Software,,Microsoft
+ACQ856,June,15,1999,Omnibrowse,,Microsoft
+ACQ855,June,28,1999,Intrinsa,58900000,Microsoft
+ACQ854,July,1,1999,Sendit,125420000,Microsoft
+ACQ853,July,7,1999,Zoomit,,Microsoft
+ACQ852,July,21,1999,STNC,,Microsoft
+ACQ851,September,19,1999,Softway Systems,,Microsoft
+ACQ850,October,29,1999,Entropic,,Microsoft
+ACQ85,Feburary,3,2016,LegbaCore,,Apple
+ACQ849,November,3,1999,Raycer Graphics,15000000,Apple
+ACQ848,January,7,2000,Visio Corporation,1375000000,Microsoft
+ACQ847,January,7,2000,NetSelector,,Apple
+ACQ846,February,29,2000,Peach Networks,,Microsoft
+ACQ845,March,17,2000,Travelscape,89750000,Microsoft
+ACQ844,March,23,2000,Arthas.com,,Yahoo
+ACQ843,April,5,2000,MyQuest,,Yahoo
+ACQ842,April,11,2000,Astarte-DVD Authoring Software[note 1],,Apple
+ACQ841,April,12,2000,Titus Communications,944800000,Microsoft
+ACQ840,June,19,2000,Bungie Software,,Microsoft
+ACQ84,February,3,2016,ecx.io AG,,IBM
+ACQ839,June,30,2000,VivaSmart,8900000,Yahoo
+ACQ838,July,12,2000,NetGames,,Microsoft
+ACQ837,August,31,2000,eGroups,432000000,Yahoo
+ACQ836,September,13,2000,MongoMusic,65000000,Microsoft
+ACQ835,September,27,2000,Pacific Microsonics,,Microsoft
+ACQ834,November,9,2000,Kimo,30000000,Yahoo
+ACQ833,,,2000,SoundJam MP[note 2],,Apple
+ACQ832,,,2001,Bluefish Labs,,Apple
+ACQ831,February,12,2001,Deja,,Google
+ACQ830,February,14,2001,Sold.com.au,30000000,Yahoo
+ACQ83,February,9,2016,Groove,,Microsoft
+ACQ829,March,17,2001,Vacationspot,70850000,Microsoft
+ACQ828,April,5,2001,Great Plains Software,939884000,Microsoft
+ACQ827,May,2,2001,Intellisol International,,Microsoft
+ACQ826,May,11,2001,bluebuzz,,Apple
+ACQ825,May,31,2001,NCompass Labs,36000000,Microsoft
+ACQ824,June,7,2001,Mainspring,80000000,IBM
+ACQ823,June,21,2001,Maximal Innovative Intelligence,20000000,Microsoft
+ACQ822,June,28,2001,LAUNCH Media,12000000,Yahoo
+ACQ821,July,1,2001,Yupi,,Microsoft
+ACQ820,July,2,2001,Informix Corporation,1000000000,IBM
+ACQ82,February,12,2016,BandPage,,Google
+ACQ819,July,9,2001,Spruce Technologies[note 3],14900000,Apple
+ACQ818,September,20,2001,Outride,,Google
+ACQ817,December,31,2001,PowerSchool,66100000,Apple
+ACQ816,January,14,2002,"CrossWorlds Software, Inc.",129000000,IBM
+ACQ815,February,1,2002,Nothing Real,15000000,Apple
+ACQ814,February,12,2002,Hotjobs.com,436000000,Yahoo
+ACQ813,March,11,2002,Classic Custom Vacations,78000000,Microsoft
+ACQ812,April,4,2002,Zayante,13000000,Apple
+ACQ811,May,22,2002,Sales Management Systems,,Microsoft
+ACQ810,June,11,2002,Silicon Grail Corp-Chalice[note 5][note 6],20000000,Apple
+ACQ81,February,18,2016,Pie,,Google
+ACQ809,June,20,2002,Propel Software,,Apple
+ACQ808,June,21,2002,Prismo Graphics[note 6],20000000,Apple
+ACQ807,June,25,2002,Metamerge,,IBM
+ACQ806,July,1,2002,Emagic,30000000,Apple
+ACQ805,July,12,2002,Navision,1330000000,Microsoft
+ACQ804,July,29,2002,Mobilocity,,Microsoft
+ACQ803,August,19,2002,"Trellisoft, Inc.",,IBM
+ACQ802,September,10,2002,XDegrees,,Microsoft
+ACQ801,September,12,2002,"Holosofx, Inc.",,IBM
+ACQ800,September,24,2002,Rare,375000000,Microsoft
+ACQ80,February,18,2016,Truven Health Analytics,2600000000,IBM
+ACQ8,November,7,2017,SWNG,,Microsoft
+ACQ799,October,2,2002,PWC Consulting,3500000000,IBM
+ACQ798,October,6,2002,Access360,,IBM
+ACQ797,October,7,2002,EADS Matra Datavision,,IBM
+ACQ796,November,15,2002,Tarian Software,,IBM
+ACQ795,December,13,2002,Vicinity,95849000,Microsoft
+ACQ794,December,23,2002,Inktomi Corporation,235000000,Yahoo
+ACQ793,February,,2003,Pyra Labs,,Google
+ACQ792,Feburary,21,2003,Rational Software Corporation,2100000000,IBM
+ACQ791,February,25,2003,Connectix,,Microsoft
+ACQ790,March,3,2003,DCG,,Microsoft
+ACQ79,February,24,2016,Xamarin,,Microsoft
+ACQ789,April,,2003,Applied Semantics,102000000,Google
+ACQ788,April,,2003,Neotonic Software,,Google
+ACQ787,April,30,2003,PlaceWare,200000000,Microsoft
+ACQ786,May,14,2003,Think Dynamics,,IBM
+ACQ785,May,27,2003,G.A. Sullivan,,Microsoft
+ACQ784,June,10,2003,GeCAD Software,,Microsoft
+ACQ783,June,14,2003,"Overture Services, Inc.",1630000000,Yahoo
+ACQ782,July,1,2003,Information Laboratory,,IBM
+ACQ781,July,15,2003,Aptrix,,IBM
+ACQ780,August,29,2003,3DO Co-High Heat Baseball,450000,Microsoft
+ACQ78,February,29,2016,Resilient Systems,,IBM
+ACQ779,September,30,2003,Kaltix,,Google
+ACQ778,October,,2003,Genius Labs,,Google
+ACQ777,October,,2003,Sprinks,,Google
+ACQ776,October,17,2003,CrossAccess Corporation,,IBM
+ACQ775,November,13,2003,"Productivity Solutions, Inc.",,IBM
+ACQ774,December,17,2003,"Green Pasture Software, Inc.",,IBM
+ACQ773,January,,2004,3721 Internet Assistant,120000000,Yahoo
+ACQ772,March,26,2004,Kelkoo,579000000,Yahoo
+ACQ771,April,6,2004,Trigo Technologies,,IBM
+ACQ770,April,7,2004,Daksh e-Services,170000000,IBM
+ACQ77,March,9,2016,MSQRD (Masquerade),,Facebook
+ACQ769,April,13,2004,Business Continuity Services unit of Schlumberger,,IBM
+ACQ768,April,22,2004,Encore Bus Solutions-IP Asts,,Microsoft
+ACQ767,April,26,2004,ActiveViews,,Microsoft
+ACQ766,May,10,2004,Ignite Logic,,Google
+ACQ765,June,7,2004,Candle Corporation,,IBM
+ACQ764,July,12,2004,Oddpost,30000000,Yahoo
+ACQ763,July,13,2004,Picasa,,Google
+ACQ762,July,14,2004,Alphablox Corporation,,IBM
+ACQ761,July,16,2004,Lookout Software,,Microsoft
+ACQ760,July,29,2004,Cyanea Systems,,IBM
+ACQ76,March,18,2016,Optevia,,IBM
+ACQ759,September,,2004,ZipDash,,Google
+ACQ758,September,14,2004,Musicmatch Jukebox,160000000,Yahoo
+ACQ757,October,,2004,Where2,,Google
+ACQ756,October,2,2004,The All-Seeing Eye,,Yahoo
+ACQ755,October,7,2004,Venetica,,IBM
+ACQ754,October,22,2004,Stata Labs,,Yahoo
+ACQ753,October,27,2004,"Keyhole, Inc",,Google
+ACQ752,November,19,2004,Systemcorp ALG Ltd.,,IBM
+ACQ751,November,23,2004,Liberty Insurance Services,,IBM
+ACQ750,December,1,2004,Maersk Data and DMdata from Maersk,,IBM
+ACQ75,March,31,2016,Blue Wolf Group LLC,200000000,IBM
+ACQ749,December,7,2004,WUF Networks,,Yahoo
+ACQ748,December,13,2004,KeyMRO,,IBM
+ACQ747,December,16,2004,GIANT Company Software,,Microsoft
+ACQ746,January,7,2005,Systems Research & Development,,IBM
+ACQ745,February,11,2005,Verdisoft,58000000,Yahoo
+ACQ744,March,,2005,Schemasoft,,Apple
+ACQ743,March,2,2005,en'tegrate,,Microsoft
+ACQ742,March,4,2005,Stadeon,,Yahoo
+ACQ741,March,16,2005,Corio,182000000,IBM
+ACQ740,March,20,2005,Ludicorp,40000000,Yahoo
+ACQ74,April,9,2016,Peer,,Twitter
+ACQ739,March,28,2005,Urchin Software Corporation,,Google
+ACQ738,April,,2005,FingerWorks,,Apple
+ACQ737,April,9,2005,Groove Networks,,Microsoft
+ACQ736,April,12,2005,TeRespondo,,Yahoo
+ACQ735,April,29,2005,Ascential Software Corporation,1100000000,IBM
+ACQ734,May,10,2005,Gluecode Software,,IBM
+ACQ733,May,11,2005,MessageCast,7000000,Microsoft
+ACQ732,May,12,2005,Dodgeball,,Google
+ACQ731,May,31,2005,Tsinghua-Shenxun-Cert Asts,15000000,Microsoft
+ACQ730,June,14,2005,blo.gs,,Yahoo
+ACQ73,May,2,2016,Synergyse,,Google
+ACQ729,June,14,2005,Dialpad,,Yahoo
+ACQ728,June,21,2005,Sybari Software,,Microsoft
+ACQ727,June,23,2005,Meiosys,,IBM
+ACQ726,July,,2005,Reqwireless,,Google
+ACQ725,July,19,2005,Akwan Information Technologies,,Google
+ACQ724,July,25,2005,"PureEdge Solutions, Inc.",,IBM
+ACQ723,July,25,2005,Konfabulator,,Yahoo
+ACQ722,July,27,2005,Isogon Corporation,,IBM
+ACQ721,August,2,2005,DWL,,IBM
+ACQ720,August,17,2005,Android Inc.,50000000,Google
+ACQ72,May,3,2016,Solair,,Microsoft
+ACQ719,August,23,2005,facebook.com domain name,200000,Facebook
+ACQ718,August,29,2005,Teleo,,Microsoft
+ACQ717,August,31,2005,FrontBridge Technologies,,Microsoft
+ACQ716,September,19,2005,Alacris,,Microsoft
+ACQ715,October,4,2005,Upcoming.org,,Yahoo
+ACQ714,October,14,2005,"DataPower Technology, Inc.",,IBM
+ACQ713,October,18,2005,Whereonearth,,Yahoo
+ACQ712,November,,2005,Skia Inc.,,Google
+ACQ711,November,1,2005,"iPhrase Systems, Inc.",,IBM
+ACQ710,November,3,2005,media-streams.com,,Microsoft
+ACQ71,May,23,2016,Two Big Ears,,Facebook
+ACQ709,November,10,2005,Network Solutions Pvt Ltd,,IBM
+ACQ708,November,15,2005,"Collation, Inc.",,IBM
+ACQ707,November,17,2005,5th Finger,3153000,Microsoft
+ACQ706,December,12,2005,del.icio.us,20000000,Yahoo
+ACQ705,December,20,2005,"Bowstreet, Inc.",,IBM
+ACQ704,December,27,2005,Phatbits,,Google
+ACQ703,December,31,2005,bruNET GmbH,,Google
+ACQ702,December,31,2005,allPAY GmbH,,Google
+ACQ701,January,9,2006,Webjay,,Yahoo
+ACQ700,January,17,2006,dMarc Broadcasting,102000000,Google
+ACQ70,June,1,2016,EZSource,,IBM
+ACQ7,December,11,2017,Shazam,,Apple
+ACQ699,January,17,2006,SearchFox,,Yahoo
+ACQ698,January,19,2006,UMT-Software and IP Assets,,Microsoft
+ACQ697,January,20,2006,"CIMS Lab, Inc.",,IBM
+ACQ696,January,27,2006,ARGUS Semiconductor Software From INFICON,,IBM
+ACQ695,Feburary,8,2006,"Viacore, Inc.",,IBM
+ACQ694,February,13,2006,Seadragon Software,,Microsoft
+ACQ693,February,13,2006,MotionBridge,17858000,Microsoft
+ACQ692,February,14,2006,Measure Map,,Google
+ACQ691,Feburary,14,2006,"Micromuse, Inc.",865000000,IBM
+ACQ690,March,7,2006,Onfolio,,Microsoft
+ACQ69,June,20,2016,Magic Pony Technology,150000000,Twitter
+ACQ689,March,7,2006,Apptimum,,Microsoft
+ACQ688,March,9,2006,Upstartle,,Google
+ACQ687,March,14,2006,@Last Software,,Google
+ACQ686,March,16,2006,Language Analysis Systems,,IBM
+ACQ685,April,6,2006,Lionhead Studios,,Microsoft
+ACQ684,April,9,2006,Orion,,Google
+ACQ683,April,18,2006,Meedio,,Yahoo
+ACQ682,April,26,2006,AssetMetrix,,Microsoft
+ACQ681,May,2,2006,"BuildForge, Inc.",,IBM
+ACQ680,May,4,2006,Vexcel,,Microsoft
+ACQ68,June,22,2016,Webpass,,Google
+ACQ679,May,4,2006,Massive Incorporated,,Microsoft
+ACQ678,May,5,2006,"Unicorn Solutions, Inc.",,IBM
+ACQ677,May,15,2006,DeepMetrix,,Microsoft
+ACQ676,June,1,2006,2Web Technologies,,Google
+ACQ675,June,6,2006,ProClarity,,Microsoft
+ACQ674,June,27,2006,iView Multimedia,,Microsoft
+ACQ673,June,27,2006,Rembo Technology,,IBM
+ACQ672,July,17,2006,Softricity,,Microsoft
+ACQ671,July,18,2006,Winternals Software,,Microsoft
+ACQ670,July,26,2006,Whale Communications,,Microsoft
+ACQ67,July,6,2016,Moodstocks,,Google
+ACQ669,August,1,2006,"Webify Solutions, Inc",,IBM
+ACQ668,August,15,2006,Neven Vision Germany GmbH,,Google
+ACQ667,September,6,2006,Global Value Solutions,,IBM
+ACQ666,September,26,2006,Gteko,,Microsoft
+ACQ665,September,27,2006,Jumpcut.com,,Yahoo
+ACQ664,October,2,2006,DesktopStandard,,Microsoft
+ACQ663,October,4,2006,DORANA product line from Ubiquity Pty Limited,,IBM
+ACQ662,October,5,2006,MRO Software,740000000,IBM
+ACQ661,October,9,2006,YouTube,1650000000,Google
+ACQ660,October,12,2006,Colloquis,,Microsoft
+ACQ66,July,8,2016,Anvato,,Google
+ACQ659,October,12,2006,FileNet Corporation,1600000000,IBM
+ACQ658,October,16,2006,Silicon Color,,Apple
+ACQ657,October,17,2006,AdInterax,,Yahoo
+ACQ656,October,20,2006,Palisades Technology Partners,,IBM
+ACQ655,October,20,2006,Internet Security Systems (ISS),1300000000,IBM
+ACQ654,October,31,2006,JotSpot,,Google
+ACQ653,November,16,2006,Bix.com,,Yahoo
+ACQ652,November,17,2006,Kenet Works,25000000,Yahoo
+ACQ651,December,,2006,Wretch,22000000,Yahoo
+ACQ650,December,4,2006,Proximity,,Apple
+ACQ65,July,12,2016,Kifi,,Google
+ACQ649,December,18,2006,Endoxon,28000000,Google
+ACQ648,January,8,2007,MyBlogLog,,Yahoo
+ACQ647,January,22,2007,"Consul Risk Management, Inc.",,IBM
+ACQ646,Feburary,13,2007,Vallent Corporation,,IBM
+ACQ645,February,16,2007,Adscape,23000000,Google
+ACQ644,March,1,2007,Softek Storage Solutions Corporation,,IBM
+ACQ643,March,9,2007,Medstory,,Microsoft
+ACQ642,March,16,2007,Trendalyzer,,Google
+ACQ641,March,18,2007,"BlackDot Networks, Inc.",,IBM
+ACQ640,March,26,2007,devBiz Business Solutions,,Microsoft
+ACQ64,July,27,2016,LaunchKit,,Google
+ACQ639,April,13,2007,DoubleClick,3100000000,Google
+ACQ638,April,17,2007,Tonic Systems,,Google
+ACQ637,April,19,2007,Marratech,15000000,Google
+ACQ636,April,20,2007,Unicible,460000000,IBM
+ACQ635,April,29,2007,Right Media,850000000,Yahoo
+ACQ634,May,3,2007,Tellme Networks,,Microsoft
+ACQ633,May,3,2007,ScreenTonic,,Microsoft
+ACQ632,May,9,2007,SoftArtisans,,Microsoft
+ACQ631,May,11,2007,GreenBorder,,Google
+ACQ630,May,28,2007,Crusix,,Google
+ACQ63,August,5,2016,Turi,200000000,Apple
+ACQ629,June,1,2007,Panoramio,,Google
+ACQ628,June,3,2007,FeedBurner,100000000,Google
+ACQ627,June,4,2007,Engyro,,Microsoft
+ACQ626,June,5,2007,PeakStream,,Google
+ACQ625,June,7,2007,Stratature,,Microsoft
+ACQ624,June,19,2007,Zenter,,Google
+ACQ623,June,20,2007,Rivals.com,,Yahoo
+ACQ622,June,29,2007,Savvis Inc-Data Centers,200000000,Microsoft
+ACQ621,July,2,2007,GrandCentral,45000000,Google
+ACQ620,July,9,2007,Postini,625000000,Google
+ACQ62,August,8,2016,Beam (now known as Mixer),,Microsoft
+ACQ619,July,19,2007,Parakey,,Facebook
+ACQ618,July,20,2007,ImageAmerica,,Google
+ACQ617,July,20,2007,Watchfire Corporation,,IBM
+ACQ616,August,13,2007,aQuantive,6333000000,Microsoft
+ACQ615,August,13,2007,AdECN,,Microsoft
+ACQ614,August,21,2007,WebDialogs,,IBM
+ACQ613,August,31,2007,DataMirror Corporation,161000000,IBM
+ACQ612,September,4,2007,BlueLithium,300000000,Yahoo
+ACQ611,September,7,2007,"Qinnova, Inc.",,IBM
+ACQ610,September,10,2007,"Princeton Softech, Inc.",,IBM
+ACQ61,August,8,2016,Orbitera,100000000,Google
+ACQ609,September,14,2007,BuzzTracker,,Yahoo
+ACQ608,September,17,2007,Zimbra,350000000,Yahoo
+ACQ607,September,27,2007,Zingku,,Google
+ACQ606,October,2,2007,Jellyfish.com,,Microsoft
+ACQ605,October,5,2007,Parlano,,Microsoft
+ACQ604,October,9,2007,Jaiku,,Google
+ACQ603,October,24,2007,NovusCG,,IBM
+ACQ602,October,29,2007,Global Care Solutions-Assets,,Microsoft
+ACQ601,November,1,2007,HOB Business Solutions,,Microsoft
+ACQ600,November,15,2007,Musiwave,,Microsoft
+ACQ60,August,20,2016,Genee,,Microsoft
+ACQ6,January,2,2018,Buddybuild,,Apple
+ACQ599,December,12,2007,Multimap.com,,Microsoft
+ACQ598,January,2,2008,XIV,300000000,IBM
+ACQ597,January,18,2008,AptSoft Corporation,,IBM
+ACQ596,January,22,2008,Calista Technologies,,Microsoft
+ACQ595,January,29,2008,Solid Information Technology,,IBM
+ACQ594,January,31,2008,Arsenal Digital Solutions,,IBM
+ACQ593,January,31,2008,Cognos,5000000000,IBM
+ACQ592,February,5,2008,FoxyTunes,,Yahoo
+ACQ591,February,7,2008,Caligari Corporation,,Microsoft
+ACQ590,February,12,2008,Maven Networks,160000000,Yahoo
+ACQ59,August,22,2016,Gliimpse,,Apple
+ACQ589,Feburary,15,2008,Net Integration Technologies Inc.,,IBM
+ACQ588,February,27,2008,YaData,,Microsoft
+ACQ587,March,11,2008,"Encentuate, Inc.",,IBM
+ACQ586,March,14,2008,Rapt,,Microsoft
+ACQ585,March,19,2008,Komoku,5000000,Microsoft
+ACQ584,March,31,2008,90 Degree Software,,Microsoft
+ACQ583,April,3,2008,Telelogic AB,845000000,IBM
+ACQ582,April,14,2008,Farecast,75000000,Microsoft
+ACQ581,April,15,2008,Danger,500000000,Microsoft
+ACQ580,April,18,2008,Diligent Technologies,200000000,IBM
+ACQ58,September,8,2016,Apigee,625000000,Google
+ACQ579,April,21,2008,FilesX,,IBM
+ACQ578,April,24,2008,P.A. Semi,278000000,Apple
+ACQ577,April,25,2008,Fast Search & Transfer,1191000000,Microsoft
+ACQ576,April,29,2008,InfoDyne Corporation,,IBM
+ACQ575,May,9,2008,Inquisitor,,Yahoo
+ACQ574,May,26,2008,Kidaro,,Microsoft
+ACQ573,June,4,2008,Quadreon,,Microsoft
+ACQ572,June,18,2008,Navic Networks,,Microsoft
+ACQ571,June,23,2008,ConnectU,31000000,Facebook
+ACQ570,June,26,2008,Mobicomp,,Microsoft
+ACQ57,September,15,2016,Urban Engines,,Google
+ACQ569,July,2,2008,Platform Solutions,,IBM
+ACQ568,July,15,2008,Summize,,Twitter
+ACQ567,July,28,2008,ILOG,340000000,IBM
+ACQ566,July,30,2008,Omnisio,15000000,Google
+ACQ565,August,11,2008,Powerset,,Microsoft
+ACQ564,September,12,2008,TNC,,Google
+ACQ563,September,16,2008,DATAllegro,,Microsoft
+ACQ562,September,28,2008,Greenfield Online,486000000,Microsoft
+ACQ561,November,18,2008,Transitive Corporation,,IBM
+ACQ560,November,24,2008,Values of n,,Twitter
+ACQ56,September,19,2016,API.AI,,Google
+ACQ559,January,15,2009,Outblaze's E-Mail Service Assets,,IBM
+ACQ558,March,1,2009,3DV Systems,35000000,Microsoft
+ACQ557,May,5,2009,Exeros Assets,,IBM
+ACQ556,May,7,2009,BigPark,,Microsoft
+ACQ555,June,1,2009,Rosetta Biosoftware,,Microsoft
+ACQ554,July,7,2009,Placebase,,Apple
+ACQ553,July,22,2009,Xoopit,20000000,Yahoo
+ACQ552,July,28,2009,Ounce Labs,,IBM
+ACQ551,July,28,2009,SPSS Inc.,1200000000,IBM
+ACQ550,August,5,2009,On2,133000000,Google
+ACQ55,September,19,2016,Nascent Objects,,Facebook
+ACQ549,August,10,2009,FriendFeed,47500000,Facebook
+ACQ548,August,25,2009,Maktoob.com,167000000,Yahoo
+ACQ547,September,16,2009,reCAPTCHA,,Google
+ACQ546,September,22,2009,Interactive Supercomputing,,Microsoft
+ACQ545,September,22,2009,RedPill Solutions,,IBM
+ACQ544,November,9,2009,Gizmo5,30000000,Google
+ACQ543,November,9,2009,AdMob,750000000,Google
+ACQ542,November,23,2009,Teracent,,Google
+ACQ541,November,30,2009,Guardium,,IBM
+ACQ540,December,4,2009,AppJet,,Google
+ACQ54,September,22,2016,Tuplejump,,Apple
+ACQ539,December,6,2009,Lala.com,17000000,Apple
+ACQ538,December,10,2009,"Sentillion, Inc.",,Microsoft
+ACQ537,December,10,2009,Opalis Software,,Microsoft
+ACQ536,December,16,2009,Lombardi,,IBM
+ACQ535,December,23,2009,Mixer labs,5170000,Twitter
+ACQ534,January,5,2010,Quattro Wireless,275000000,Apple
+ACQ533,January,20,2010,"National Interest Security Company, LLC",,IBM
+ACQ532,February,3,2010,Initiate Systems,,IBM
+ACQ531,February,12,2010,Aardvark,50000000,Google
+ACQ530,February,16,2010,Intelliden Inc.,,IBM
+ACQ53,September,29,2016,Promontory Financial Group,,IBM
+ACQ529,February,17,2010,reMail,,Google
+ACQ528,February,19,2010,Octazen,,Facebook
+ACQ527,March,1,2010,Picnik,,Google
+ACQ526,March,2,2010,Divvyshot,,Facebook
+ACQ525,March,5,2010,DocVerse,25000000,Google
+ACQ524,March,17,2010,citizensports.com,,Yahoo
+ACQ523,April,2,2010,Episodic,,Google
+ACQ522,April,9,2010,Atebits,,Twitter
+ACQ521,April,12,2010,PlinkArt,,Google
+ACQ520,April,20,2010,Agnilux,,Google
+ACQ52,October,10,2016,Infiniled,,Facebook
+ACQ519,April,23,2010,Cloudhopper,,Twitter
+ACQ518,April,27,2010,LabPixies,,Google
+ACQ517,April,27,2010,Siri,,Apple
+ACQ516,April,27,2010,Intrinsity,121000000,Apple
+ACQ515,April,30,2010,BumpTop,30000000,Google
+ACQ514,May,3,2010,Cast Iron Systems,190000000,IBM
+ACQ513,May,10,2010,Gipsy Moth Studios,12000000,Apple
+ACQ512,May,13,2010,Friendster patents,40000000,Facebook
+ACQ511,May,18,2010,Global IP Solutions,68200000,Google
+ACQ510,May,18,2010,Associated Content,,Yahoo
+ACQ51,October,11,2016,FameBit,,Google
+ACQ509,May,20,2010,Simplify Media,,Google
+ACQ508,May,21,2010,Ruba.com,,Google
+ACQ507,May,24,2010,Sterling Commerce,1400000000,IBM
+ACQ506,May,25,2010,Koprol,,Yahoo
+ACQ505,May,26,2010,ShareGrove,,Facebook
+ACQ504,June,3,2010,Invite Media,81000000,Google
+ACQ503,June,10,2010,Smallthought Systems,,Twitter
+ACQ502,June,15,2010,Coremetrics,,IBM
+ACQ501,July,1,2010,"BigFix, Inc.",,IBM
+ACQ500,July,8,2010,Nextstop,2500000,Facebook
+ACQ50,October,24,2016,Eyefluence,,Google
+ACQ5,January,23,2018,Confirm,,Facebook
+ACQ499,July,14,2010,Poly9,,Apple
+ACQ498,July,16,2010,Metaweb,,Google
+ACQ497,July,29,2010,Storwize,140000000,IBM
+ACQ496,August,,2010,Zetawire,,Google
+ACQ495,August,4,2010,Instantiations,,Google
+ACQ494,August,5,2010,Slide.com,228000000,Google
+ACQ493,August,10,2010,Jambool,70000000,Google
+ACQ492,August,10,2010,Datacap,,IBM
+ACQ491,August,13,2010,Unica Corporation,480000000,IBM
+ACQ490,August,15,2010,Like.com,100000000,Google
+ACQ49,October,27,2016,Sanovi Technologies,,IBM
+ACQ489,August,15,2010,Chai Labs,10000000,Facebook
+ACQ488,August,20,2010,Hot Potato,,Facebook
+ACQ487,August,30,2010,"SocialDeck, Inc.",,Google
+ACQ486,August,30,2010,Angstro,,Google
+ACQ485,September,13,2010,Quiksee,10000000,Google
+ACQ484,September,14,2010,IMSense,,Apple
+ACQ483,September,15,2010,OpenPages,,IBM
+ACQ482,September,20,2010,Polar Rose,29000000,Apple
+ACQ481,September,20,2010,Netezza,1700000000,IBM
+ACQ480,September,27,2010,BLADE Network Technologies,,IBM
+ACQ48,November,5,2016,LeapDroid,,Google
+ACQ479,September,28,2010,Plannr,,Google
+ACQ478,October,1,2010,BlindType,,Google
+ACQ477,October,4,2010,Dapper,55000000,Yahoo
+ACQ476,October,6,2010,"AVIcode, Inc.",,Microsoft
+ACQ475,October,13,2010,PSS Systems,,IBM
+ACQ474,October,21,2010,Clarity Systems,350000000,IBM
+ACQ473,October,29,2010,"Canesta, Inc.",,Microsoft
+ACQ472,October,29,2010,Drop.io,,Facebook
+ACQ471,November,15,2010,FB.com domain name,8500000,Facebook
+ACQ470,December,3,2010,Widevine Technologies,,Google
+ACQ47,November,11,2016,CrowdTangle,,Facebook
+ACQ469,December,3,2010,Phonetic Arts,,Google
+ACQ468,December,21,2010,Fluther,,Twitter
+ACQ467,January,13,2011,eBook Technologies,,Google
+ACQ466,January,20,2011,Spreets,40000000,Yahoo
+ACQ465,January,25,2011,SayNow,,Google
+ACQ464,January,25,2011,Rel8tion,,Facebook
+ACQ463,March,1,2011,Zynamics,,Google
+ACQ462,March,2,2011,Beluga,,Facebook
+ACQ461,March,7,2011,Next New Networks,,Google
+ACQ460,March,7,2011,BeatThatQuote.com,65000000,Google
+ACQ46,November,16,2016,Faciometrics,,Facebook
+ACQ459,March,16,2011,Green Parrot Pictures,,Google
+ACQ458,March,20,2011,Snaptu,70000000,Facebook
+ACQ457,March,22,2011,Tririga Inc.,,IBM
+ACQ456,March,24,2011,RecRec,,Facebook
+ACQ455,April,8,2011,PushLife,25000000,Google
+ACQ454,April,12,2011,ITA Software,676000000,Google
+ACQ453,April,25,2011,IntoNow,20000000,Yahoo
+ACQ452,April,26,2011,TalkBin,,Google
+ACQ451,April,27,2011,DayTum,,Facebook
+ACQ450,May,10,2011,Skype Technologies,8500000000,Microsoft
+ACQ45,November,21,2016,Qwiklabs,,Google
+ACQ449,May,23,2011,Sparkbuy,,Google
+ACQ448,May,25,2011,TweetDeck,40000000,Twitter
+ACQ447,June,1,2011,AdGrok,,Twitter
+ACQ446,June,3,2011,PostRank,,Google
+ACQ445,June,7,2011,Prodiance,,Microsoft
+ACQ444,June,9,2011,Admeld,400000000,Google
+ACQ443,June,9,2011,MailRank,,Facebook
+ACQ442,June,9,2011,Sofa,,Facebook
+ACQ441,June,18,2011,SageTV,,Google
+ACQ440,July,5,2011,BackType,,Twitter
+ACQ44,December,1,2016,Indoor.io,,Apple
+ACQ439,July,8,2011,Punchd,,Google
+ACQ438,July,21,2011,Fridge,,Google
+ACQ437,July,23,2011,PittPatt,,Google
+ACQ436,August,1,2011,Dealmap,,Google
+ACQ435,August,1,2011,C3 Technologies,267000000,Apple
+ACQ434,August,2,2011,Push Pop Press,,Facebook
+ACQ433,August,8,2011,Bagcheck,,Twitter
+ACQ432,August,15,2011,Motorola Mobility,12500000000,Google
+ACQ431,August,31,2011,i2 Limited,,IBM
+ACQ430,September,1,2011,Algorithmics Inc.[116],387000000,IBM
+ACQ43,December,1,2016,"Yes, Inc",,Twitter
+ACQ429,September,7,2011,Zave Networks,,Google
+ACQ428,September,8,2011,Zagat,151000000,Google
+ACQ427,September,19,2011,DailyDeal,114000000,Google
+ACQ426,September,21,2011,Julpan,,Twitter
+ACQ425,October,4,2011,Q1 Labs[118],,IBM
+ACQ424,October,10,2011,Friend.ly,,Facebook
+ACQ423,October,11,2011,SocialGrapple,,Google
+ACQ422,October,12,2011,Platform Computing,,IBM
+ACQ421,November,1,2011,Interclick,270000000,Yahoo
+ACQ420,November,8,2011,Strobe,,Facebook
+ACQ42,December,8,2016,LinkedIn,26200000000,Microsoft
+ACQ419,November,10,2011,Apture,,Google
+ACQ418,November,14,2011,Katango,,Google
+ACQ417,November,22,2011,Videosurf,100000000,Microsoft
+ACQ416,November,28,2011,Whisper Systems,,Twitter
+ACQ415,December,2,2011,Gowalla,,Facebook
+ACQ414,December,5,2011,Cúram Software,,IBM
+ACQ413,December,8,2011,DemandTec,440000000,IBM
+ACQ412,December,9,2011,RightsFlow,,Google
+ACQ411,December,13,2011,Clever Sense,,Google
+ACQ410,December,15,2011,Emptoris,,IBM
+ACQ41,December,13,2016,Cronologics,,Google
+ACQ409,December,20,2011,Anobit,390000000,Apple
+ACQ408,,,2012,WIMM Labs,,Google
+ACQ407,January,4,2012,Green Hat (software company)[124],,IBM
+ACQ406,January,19,2012,Summify,,Twitter
+ACQ405,January,24,2012,Dasient,,Twitter
+ACQ404,January,31,2012,Worklight,70000000,IBM
+ACQ403,February,20,2012,Caffeinatedmind,,Facebook
+ACQ402,February,23,2012,Chomp,50000000,Apple
+ACQ401,March,12,2012,Posterous,,Twitter
+ACQ400,March,16,2012,"Milk, Inc",,Google
+ACQ40,January,5,2017,Limes Audio,,Google
+ACQ4,January,29,2018,Playfab,,Microsoft
+ACQ399,April,2,2012,TxVia,,Google
+ACQ398,April,9,2012,Instagram,1000000000,Facebook
+ACQ397,April,13,2012,Tagtile,,Facebook
+ACQ396,April,13,2012,Varicent,,IBM
+ACQ395,April,16,2012,Hotspots.io,,Twitter
+ACQ394,April,25,2012,Vivisimo,,IBM
+ACQ393,May,2,2012,Tealeaf Technology,,IBM
+ACQ392,May,5,2012,Glancee,,Facebook
+ACQ391,May,10,2012,RestEngine,,Twitter
+ACQ390,May,15,2012,Lightbox.com,,Facebook
+ACQ39,January,13,2017,Maluuba,,Microsoft
+ACQ389,May,21,2012,Karma,,Facebook
+ACQ388,June,2,2012,Redmatica,,Apple
+ACQ387,June,4,2012,Meebo,100000000,Google
+ACQ386,June,4,2012,Nclud,,Twitter
+ACQ385,June,5,2012,Quickoffice,,Google
+ACQ384,June,18,2012,Face.com,100000000,Facebook
+ACQ383,June,25,2012,Yammer,1200000000,Microsoft
+ACQ382,July,9,2012,Perceptive Pixel,,Microsoft
+ACQ381,July,14,2012,Spool,,Facebook
+ACQ380,July,20,2012,Sparrow,25000000,Google
+ACQ38,January,17,2017,Simplygon,,Microsoft
+ACQ379,July,20,2012,Acrylic Software,,Facebook
+ACQ378,July,27,2012,AuthenTec,356000000,Apple
+ACQ377,August,1,2012,Wildfire Interactive,450000000,Google
+ACQ376,August,13,2012,Clutch.IO,,Twitter
+ACQ375,August,16,2012,Texas Memory Systems,,IBM
+ACQ374,August,24,2012,Threadsy,,Facebook
+ACQ373,August,27,2012,Kenexa Corporation,1400000000,IBM
+ACQ372,September,7,2012,VirusTotal.com,,Google
+ACQ371,September,17,2012,"Nik Software, Inc.",,Google
+ACQ370,September,24,2012,Butterfly Software Ltd.,,IBM
+ACQ37,January,19,2017,Fabric,,Google
+ACQ369,September,27,2012,Particle,,Apple
+ACQ368,October,1,2012,Viewdle,45000000,Google
+ACQ367,October,4,2012,PhoneFactor,,Microsoft
+ACQ366,October,9,2012,Vine,30000000,Twitter
+ACQ365,October,16,2012,StorSimple,,Microsoft
+ACQ364,October,16,2012,Cabana,,Twitter
+ACQ363,October,17,2012,MarketingPilot,,Microsoft
+ACQ362,October,25,2012,Stamped,,Yahoo
+ACQ361,November,1,2012,We Are Hunted,,Twitter
+ACQ360,November,28,2012,Incentive Targeting Inc.,,Google
+ACQ36,February,3,2017,Agile 3 Solutions,,IBM
+ACQ359,November,30,2012,BufferBox,17000000,Google
+ACQ358,December,4,2012,OnTheAir,,Yahoo
+ACQ357,December,19,2012,StoredIQ,,IBM
+ACQ356,,,2013,OttoCat,,Apple
+ACQ355,,,2013,Novauris Technologies,,Apple
+ACQ354,January,3,2013,id8 Group R2 Studios,,Microsoft
+ACQ353,January,22,2013,Snip.it,10000000,Yahoo
+ACQ352,January,28,2013,Crashlytics,100000000,Twitter
+ACQ351,February,1,2013,Star Analytics,,IBM
+ACQ350,February,2,2013,Pando Networks,,Microsoft
+ACQ35,March,8,2017,Kaggle,,Google
+ACQ349,February,6,2013,Channel Intelligence,125000000,Google
+ACQ348,February,6,2013,Bluefin Labs,80000000,Twitter
+ACQ347,February,12,2013,Alike,,Yahoo
+ACQ346,February,28,2013,Atlas Solutions,,Facebook
+ACQ345,March,,2013,osmeta,,Facebook
+ACQ344,March,4,2013,MetricsHub,,Microsoft
+ACQ343,March,12,2013,DNNresearch Inc.,,Google
+ACQ342,March,14,2013,Hot Studio,,Facebook
+ACQ341,March,15,2013,Talaria Technologies,,Google
+ACQ340,March,19,2013,Netbreeze,,Microsoft
+ACQ34,March,9,2017,AppBridge,,Google
+ACQ339,March,20,2013,Jybe,,Yahoo
+ACQ338,March,23,2013,WiFiSlam,20000000,Apple
+ACQ337,March,25,2013,Summly,30000000,Yahoo
+ACQ336,April,12,2013,Behavio,,Google
+ACQ335,April,22,2013,UrbanCode,,IBM
+ACQ334,April,23,2013,Wavii,30000000,Google
+ACQ333,April,23,2013,Spaceport,,Facebook
+ACQ332,April,25,2013,Parse,85000000,Facebook
+ACQ331,May,1,2013,Astrid,,Yahoo
+ACQ330,May,9,2013,Ubalo,,Twitter
+ACQ33,March,23,2017,Workflow,,Apple
+ACQ329,May,9,2013,MileWise,,Yahoo
+ACQ328,May,9,2013,GoPollGo,,Yahoo
+ACQ327,May,10,2013,Loki Studios,,Yahoo
+ACQ326,May,13,2013,Lucky Sort,,Twitter
+ACQ325,May,17,2013,Tumblr,1100000000,Yahoo
+ACQ324,May,23,2013,Makani Power,,Google
+ACQ323,May,23,2013,PlayerScale,,Yahoo
+ACQ322,June,3,2013,InRelease,,Microsoft
+ACQ321,June,4,2013,SoftLayer Technologies,2000000000,IBM
+ACQ320,June,11,2013,Waze,966000000,Google
+ACQ32,April,10,2017,Deis,,Microsoft
+ACQ319,June,12,2013,GhostBird Software,,Yahoo
+ACQ318,June,13,2013,Rondee,,Yahoo
+ACQ317,June,19,2013,Spindle Labs,,Twitter
+ACQ316,July,2,2013,Qwiki,50000000,Yahoo
+ACQ315,July,2,2013,Bignoggins Productions,,Yahoo
+ACQ314,July,3,2013,Xobni,40000000,Yahoo
+ACQ313,July,9,2013,CSL International,,IBM
+ACQ312,July,18,2013,Monoidics,,Facebook
+ACQ311,July,18,2013,Ztelic,,Yahoo
+ACQ310,July,19,2013,HopStop.com,,Apple
+ACQ31,April,18,2017,Intentional Software,,Microsoft
+ACQ309,July,19,2013,Locationary,,Apple
+ACQ308,July,31,2013,Lexity,35000000,Yahoo
+ACQ307,August,1,2013,Passif Semiconductor,,Apple
+ACQ306,August,2,2013,Rockmelt,,Yahoo
+ACQ305,August,12,2013,Jibbigo,,Facebook
+ACQ304,August,13,2013,Matcha,,Apple
+ACQ303,August,13,2013,Marakana,,Twitter
+ACQ302,August,15,2013,Trusteer,1000000000,IBM
+ACQ301,August,22,2013,Embark,,Apple
+ACQ300,August,23,2013,IQ Engines,,Yahoo
+ACQ30,May,9,2017,Beddit,,Apple
+ACQ3,March,12,2018,Texture,,Apple
+ACQ299,August,28,2013,AlgoTrim,,Apple
+ACQ298,August,28,2013,Trendrr,,Twitter
+ACQ297,September,2,2013,Nokia mobile phones unit,7200000000,Microsoft
+ACQ296,September,9,2013,MoPub,350000000,Twitter
+ACQ295,September,16,2013,Bump,,Google
+ACQ294,September,19,2013,Daeja Image Systems,,IBM
+ACQ293,September,30,2013,Hitpost,,Yahoo
+ACQ292,October,1,2013,The Now Factory,,IBM
+ACQ291,October,2,2013,Flutter,40000000,Google
+ACQ290,October,3,2013,Cue,50000000,Apple
+ACQ29,May,10,2017,Owlchemy Labs,,Google
+ACQ289,October,3,2013,Xtify,,IBM
+ACQ288,October,11,2013,Bread,,Yahoo
+ACQ287,October,12,2013,HLW Software,,Microsoft
+ACQ286,October,13,2013,Onavo,,Facebook
+ACQ285,October,22,2013,FlexyCore,23000000,Google
+ACQ284,October,23,2013,LookFlow,,Yahoo
+ACQ283,October,25,2013,Apiphany,,Microsoft
+ACQ282,November,13,2013,Fiberlink Communications,330000000,IBM
+ACQ281,November,24,2013,PrimeSense,345000000,Apple
+ACQ280,December,,2013,Acunu,,Apple
+ACQ28,May,13,2017,Lattice Data,200000000,Apple
+ACQ279,December,2,2013,"SCHAFT, Inc.",,Google
+ACQ278,December,2,2013,Topsy,200000000,Apple
+ACQ277,December,2,2013,SkyPhrase,,Yahoo
+ACQ276,December,3,2013,Industrial Perception,,Google
+ACQ275,December,3,2013,Ptch,6500000,Yahoo
+ACQ274,December,4,2013,Redwood Robotics,,Google
+ACQ273,December,5,2013,Meka Robotics,,Google
+ACQ272,December,6,2013,Holomni,,Google
+ACQ271,December,6,2013,EvntLive,,Yahoo
+ACQ270,December,7,2013,Bot & Dolly,,Google
+ACQ27,May,31,2017,XCC (division of TIMETOACT),,IBM
+ACQ269,December,8,2013,Autofuss,,Google
+ACQ268,December,9,2013,Quik.io,,Yahoo
+ACQ267,December,17,2013,SportStream,,Facebook
+ACQ266,December,17,2013,PeerCDN,,Yahoo
+ACQ265,December,19,2013,"Aspera, Inc.",,IBM
+ACQ264,December,23,2013,Catch.com,,Apple
+ACQ263,December,23,2013,BroadMap,,Apple
+ACQ262,,,2014,Dryft,,Apple
+ACQ261,January,4,2014,Bitspin,,Google
+ACQ260,January,4,2014,SnappyLabs,,Apple
+ACQ26,June,8,2017,Hexadite,100000000,Microsoft
+ACQ259,January,7,2014,Parature,100000000,Microsoft
+ACQ258,January,7,2014,Aviate,,Yahoo
+ACQ257,January,8,2014,Little Eye Labs,15000000,Facebook
+ACQ256,January,13,2014,Nest Labs,3200000000,Google
+ACQ255,January,13,2014,Branch,15000000,Facebook
+ACQ254,January,15,2014,Impermium,,Google
+ACQ253,January,21,2014,SPARQ,,Yahoo
+ACQ252,January,24,2014,Cloud Party,,Yahoo
+ACQ251,January,26,2014,DeepMind Technologies,625000000,Google
+ACQ250,January,28,2014,Tomfoolery,,Yahoo
+ACQ25,June,16,2017,SensoMotoric Instruments,,Apple
+ACQ249,January,30,2014,Incredible Labs,,Yahoo
+ACQ248,February,11,2014,Wander,,Yahoo
+ACQ247,February,13,2014,Distill,,Yahoo
+ACQ246,February,16,2014,SlickLogin,,Google
+ACQ245,February,19,2014,WhatsApp,19000000000,Facebook
+ACQ244,February,21,2014,spider.io,,Google
+ACQ243,February,21,2014,Burstly,,Apple
+ACQ242,February,24,2014,"Cloudant, Inc.",,IBM
+ACQ241,March,5,2014,Vizify,,Yahoo
+ACQ240,March,12,2014,GreenThrottle,,Google
+ACQ24,June,28,2017,Cloudyn,50000000,Microsoft
+ACQ239,March,25,2014,Oculus VR,2000000000,Facebook
+ACQ238,March,27,2014,Ascenta,20000000,Facebook
+ACQ237,March,31,2014,SecondSync,,Twitter
+ACQ236,March,31,2014,Mesagraph,,Twitter
+ACQ235,April,7,2014,Cover,,Twitter
+ACQ234,April,10,2014,"Silverpop Systems, Inc.",,IBM
+ACQ233,April,14,2014,Titan Aerospace,,Google
+ACQ232,April,15,2014,Gnip,134000000,Twitter
+ACQ231,April,24,2014,ProtoGeo Oy,,Facebook
+ACQ230,May,1,2014,Capptain,,Microsoft
+ACQ23,July,12,2017,Halli Labs,,Google
+ACQ229,May,1,2014,GreenButton,,Microsoft
+ACQ228,May,2,2014,Rangespan,,Google
+ACQ227,May,2,2014,LuxVue Technology,,Apple
+ACQ226,May,6,2014,Adometry,,Google
+ACQ225,May,7,2014,MyEnergy,,Google
+ACQ224,May,7,2014,Stackdriver,,Google
+ACQ223,May,7,2014,Appetas,,Google
+ACQ222,May,13,2014,Blink,,Yahoo
+ACQ221,May,16,2014,Quest Visual,,Google
+ACQ220,May,19,2014,Divide,,Google
+ACQ22,July,31,2017,Ozlo,,Facebook
+ACQ219,June,5,2014,TapCommerce,100000000,Twitter
+ACQ218,June,5,2014,Namo Media,50000000,Twitter
+ACQ217,June,6,2014,Spotsetter,,Apple
+ACQ216,June,10,2014,Skybox Imaging,500000000,Google
+ACQ215,June,10,2014,PhotoDrive,,Yahoo
+ACQ214,June,19,2014,Alpental Technologies,,Google
+ACQ213,June,19,2014,mDialog,,Google
+ACQ212,June,19,2014,SnappyTV,,Twitter
+ACQ211,June,20,2014,Dropcam,555000000,Google
+ACQ210,June,25,2014,Appurify,,Google
+ACQ21,August,15,2017,Cycle Computing,,Microsoft
+ACQ209,June,29,2014,BookLamp,,Apple
+ACQ208,June,29,2014,Swell,30000000,Apple
+ACQ207,July,1,2014,Songza,,Google
+ACQ206,July,2,2014,SyntaxTree,,Microsoft
+ACQ205,July,11,2014,InMage,,Microsoft
+ACQ204,July,12,2014,RayV,,Yahoo
+ACQ203,July,17,2014,Madbits,,Twitter
+ACQ202,July,21,2014,Flurry,200000000,Yahoo
+ACQ201,July,23,2014,drawElements,,Google
+ACQ200,July,29,2014,CardSpring,,Twitter
+ACQ20,August,16,2017,AIMatter,,Google
+ACQ2,March,27,2018,Tenor,,Google
+ACQ199,July,31,2014,CrossIdeas,,IBM
+ACQ198,August,1,2014,Inception Mobile Inc.,,Microsoft
+ACQ197,August,1,2014,Beats Electronics,3000000000,Apple
+ACQ196,August,1,2014,Mitro,,Twitter
+ACQ195,August,6,2014,Director,,Google
+ACQ194,August,6,2014,Emu,,Google
+ACQ193,August,7,2014,PrivateCore,,Facebook
+ACQ192,August,11,2014,Lighthouse Security Group,,IBM
+ACQ191,August,14,2014,LiveRail,,Facebook
+ACQ190,August,15,2014,ClarityRay,,Yahoo
+ACQ19,September,21,2017,HTC (portions),1100000000,Google
+ACQ189,August,17,2014,Jetpac,,Google
+ACQ188,August,23,2014,Gecko Design,,Google
+ACQ187,August,26,2014,Zync Render,,Google
+ACQ186,August,26,2014,WaveGroup Sound,,Facebook
+ACQ185,September,5,2014,Luminate,,Yahoo
+ACQ184,September,10,2014,Lift Labs,,Google
+ACQ183,September,11,2014,Polar,,Google
+ACQ182,September,22,2014,Bookpad,15000000,Yahoo
+ACQ181,September,23,2014,Prss,,Apple
+ACQ180,October,4,2014,LittleInc,,Yahoo
+ACQ18,September,22,2017,Vrvana,30000000,Apple
+ACQ179,October,21,2014,Firebase,,Google
+ACQ178,October,23,2014,Dark Blue Labs & Vision Factory,,Google
+ACQ177,October,24,2014,Revolv,,Google
+ACQ176,October,25,2014,Twitpic,,Twitter
+ACQ175,November,6,2014,Mojang,2500000000,Microsoft
+ACQ174,November,11,2014,BrightRoll,640000000,Yahoo
+ACQ173,November,13,2014,Aorato,,Microsoft
+ACQ172,November,19,2014,RelativeWave,,Google
+ACQ171,November,21,2014,Cooliris,,Yahoo
+ACQ170,December,2,2014,Acompli,,Microsoft
+ACQ17,September,26,2017,Bitium,,Google
+ACQ169,December,11,2014,HockeyApp,,Microsoft
+ACQ168,December,11,2014,Media Group One,,Yahoo
+ACQ167,December,17,2014,Vidmaker,,Google
+ACQ166,January,,2015,Camel Audio,,Apple
+ACQ165,January,6,2015,Wit.ai,,Facebook
+ACQ164,January,8,2015,Quickfire Networks,,Facebook
+ACQ163,January,20,2015,Equivio,,Microsoft
+ACQ162,January,20,2015,ZipDial,,Twitter
+ACQ161,January,21,2015,Semetric,50000000,Apple
+ACQ160,January,23,2015,Revolution Analytics,,Microsoft
+ACQ16,September,29,2017,Regaind,,Apple
+ACQ159,February,4,2015,"Sunrise Atelier, Inc.",100000000,Microsoft
+ACQ158,February,4,2015,Launchpad Toys,,Google
+ACQ157,February,8,2015,Odysee,,Google
+ACQ156,February,11,2015,Niche,,Twitter
+ACQ155,February,12,2015,N-trig,200000000,Microsoft
+ACQ154,February,23,2015,Softcard,,Google
+ACQ153,February,24,2015,Red Hot Labs,,Google
+ACQ152,March,4,2015,AlchemyAPI,,IBM
+ACQ151,March,9,2015,Periscope (app),100000000,Twitter
+ACQ150,March,14,2015,"TheFind, Inc.",,Facebook
+ACQ15,October,,2017,PowerbyProxi,,Apple
+ACQ149,March,24,2015,FoundationDB,,Apple
+ACQ148,March,26,2015,LiveLoop,,Microsoft
+ACQ147,March,27,2015,Blekko,,IBM
+ACQ146,April,,2015,Coherent Navigation,,Apple
+ACQ145,April,2,2015,TenXer,,Twitter
+ACQ144,April,13,2015,Phytel,,IBM
+ACQ143,April,13,2015,Explorys,,IBM
+ACQ142,April,14,2015,"Datazen Software, Inc.",,Microsoft
+ACQ141,April,14,2015,LinX,20000000,Apple
+ACQ140,April,16,2015,Skillman & Hackett,,Google
+ACQ14,October,,2017,init.ai,,Apple
+ACQ139,April,16,2015,Thrive Audio,,Google
+ACQ138,April,28,2015,TellApart,479000000,Twitter
+ACQ137,May,,2015,Metaio,,Apple
+ACQ136,May,4,2015,Timeful,,Google
+ACQ135,May,26,2015,Surreal Vision,,Facebook
+ACQ134,May,28,2015,Pulse.io,,Google
+ACQ133,June,2,2015,6Wunderkinder GmbH,,Microsoft
+ACQ132,June,3,2015,Bluebox,,IBM
+ACQ131,June,10,2015,BlueStripe Software,,Microsoft
+ACQ130,June,17,2015,Whetlab,,Twitter
+ACQ13,October,3,2017,AltspaceVR,,Microsoft
+ACQ129,June,18,2015,Agawi,,Google
+ACQ128,July,16,2015,FieldOne Systems LLC,,Microsoft
+ACQ127,July,16,2015,Pebbles,60000000,Facebook
+ACQ126,July,19,2015,Adallom,320000000,Microsoft
+ACQ125,July,21,2015,Pixate,,Google
+ACQ124,July,23,2015,Compose Inc.,,IBM
+ACQ123,July,31,2015,Polyvore,160000000,Yahoo
+ACQ122,August,3,2015,"Incent Games, LLC",,Microsoft
+ACQ121,August,6,2015,Merge Healthcare Inc.,1000000000,IBM
+ACQ120,September,,2015,Perceptio,,Apple
+ACQ12,October,5,2017,Vivant Digital,,IBM
+ACQ119,September,,2015,VocalIQ,,Apple
+ACQ118,September,,2015,Mapsense,,Apple
+ACQ117,September,3,2015,"VoloMetrix, Inc.",,Microsoft
+ACQ116,September,10,2015,StrongLoop Inc.,,IBM
+ACQ115,September,11,2015,"Double Labs, Inc.",,Microsoft
+ACQ114,September,21,2015,Oyster,,Google
+ACQ113,September,28,2015,Adxstudio Inc.,,Microsoft
+ACQ112,September,28,2015,Meteorix LLC,,IBM
+ACQ111,September,30,2015,Jibe Mobile,,Google
+ACQ110,October,2,2015,Telekinesys Research Ltd.,,Microsoft
+ACQ11,October,9,2017,Relay Media,,Google
+ACQ109,October,3,2015,Endaga,,Facebook
+ACQ108,October,17,2015,Digisfera,,Google
+ACQ107,October,21,2015,ZeroPush,,Twitter
+ACQ106,October,21,2015,Fastlane,,Twitter
+ACQ105,October,28,2015,The Weather Company digital assets,,IBM
+ACQ104,November,,2015,Faceshift,,Apple
+ACQ103,November,3,2015,"Gravitant, Inc",,IBM
+ACQ102,November,5,2015,"Mobile Data Labs, Inc.",,Microsoft
+ACQ101,November,6,2015,Cleversafe,1309000000,IBM
+ACQ100,November,9,2015,Secure Islands Technologies Ltd.,,Microsoft
+ACQ10,October,11,2017,60db,,Google
+ACQ1,May,18,2018,Semantic Machines,,Microsoft
+AcQ916,June,4,2018,Github,7500000000,Microsoft
